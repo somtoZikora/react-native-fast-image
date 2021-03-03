@@ -214,7 +214,6 @@ FastImage.resizeMode = resizeMode
 
 FastImage.cacheControl = cacheControl
 
-
 FastImage.priority = priority
 
 FastImage.preload = (sources: Source[]) =>
